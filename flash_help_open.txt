@@ -1,0 +1,15 @@
+COMMAND:  open
+
+USAGE:  open  bootloader|image1|image2|perm|dyn|bdyn
+
+DESCRIPTION:
+Opens the flash driver for use by the console (locking out the rest of the 
+application!) so that you can use the read/write/erase commands.  NOTE:  If 
+you do something that would cause the driver to be opened again (write 
+nonvol, dload an image, etc), then the operation will be blocked until you 
+run the close command, or it may fail.
+
+EXAMPLES:
+open image2  -- Opens the image2 region for read/write/erase
+
+---------------------------------------------------------------------------

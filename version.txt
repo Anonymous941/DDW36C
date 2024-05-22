@@ -1,0 +1,113 @@
+                          *
+                         * *
+                         * *
+                        *   *
+                        *   *
+                       *     *
+                       *     *
+                       *     *
+                      *       *
+                      *       *
+                      *       *
+                     *         *
+                     *         *
+                     *         *
+                     *         *
+                    *           *
+          *         *           *         *
+        *   *       *           *       *   *          ***
+*     *      *     *             *     *      *     *       *******************
+   *          *   *               *   *          *
+                *                   *
+
+Broadcom Corporation Reference Design
+
+ +------------------------------------------------------------------------------------------------+
+ |       _/_/     _/_/_/_/    _/_/                                                                |
+ |      _/  _/   _/        _/    _/   Broadband                                                   |
+ |     _/  _/   _/        _/                                                                      |
+ |    _/_/     _/_/_/    _/           Foundation                                                  |
+ |   _/  _/   _/        _/                                                                        |
+ |  _/   _/  _/        _/    _/       Classes                                                     |
+ | _/_/_/   _/          _/_/                                                                      |
+ |                                                                                                |
+ | Copyright (c) 1999 - 2020 Broadcom Corporation                                                 |
+ |                                                                                                |
+ | Revision:  5.5.11mp1                                                                           |
+ |                                                                                                |
+ | Features:  BCM933843MWVG Console TelnetConsole Nonvol Fat HeapManager SNMP Networking IPv6     |
+ | Features:  (script bcm933843mwvg_U10C093TWC) Switch53124 TR69                                  |
+ +------------------------------------------------------------------------------------------------+
+ | Standard Embedded Target Support for BFC                                                       |
+ |                                                                                                |
+ | Copyright (c) 2003-2020 Broadcom Corporation                                                   |
+ |                                                                                                |
+ | Revision:  3.0.1                                                                               |
+ |                                                                                                |
+ | Features:  PID=0xa658 BID=0x0 Bootloader-Rev=15.1.4 Bootloader-Compression-Support=0x11        |
+ | Features:  MANUFACT_BITS=0x9                                                                   |
+ | Features:  Dual-band Wifi Bcm80211=Build May 18 2015 16:02:34                                  |
+ | Features:  App Ver 6.37.14.87.5511.181.3                                                       |
+ | Features:  Wl Ver 6.37.14.87.5511.181.3                                                        |
+ | Features:  IopLib-Rev=5511.77.0                                                                |
+ +------------------------------------------------------------------------------------------------+
+ | eCos BFC Application Layer                                                                     |
+ |                                                                                                |
+ | Copyright (c) 1999 - 2020 Broadcom Corporation                                                 |
+ |                                                                                                |
+ | Revision:  3.0.2                                                                               |
+ |                                                                                                |
+ | Features:  eCos Console Cmds, (no Idle Loop Profiler)                                          |
+ +------------------------------------------------------------------------------------------------+
+ |         _/_/    _/     _/                                                                      |
+ |      _/    _/  _/_/ _/_/   DOCSIS Cable Modem                                                  |
+ |     _/        _/  _/ _/                                                                        |
+ |    _/        _/     _/                                                                         |
+ |   _/        _/     _/                                                                          |
+ |  _/    _/  _/     _/                                                                           |
+ |   _/_/    _/     _/                                                                            |
+ |                                                                                                |
+ | Copyright (c) 1999 - 2020 Broadcom Corporation                                                 |
+ |                                                                                                |
+ | Revision:  5.5.11mp1                                                                           |
+ |                                                                                                |
+ | Features:  AckCel(tm) DOCSIS 1.0/1.1/2.0/3.0 Propane(tm) CM SNMP w/Factory MIB Support CM      |
+ | Features:  Vendor Extension eDOCSIS SLED D3.0 Drop Classifiers FAP NA Production Time Warner   |
+ +------------------------------------------------------------------------------------------------+
+ | Broadcom Data-Only CM Vendor Extension                                                         |
+ |                                                                                                |
+ | Copyright (c) 1999 - 2020 Broadcom Corporation                                                 |
+ |                                                                                                |
+ | Revision:  3.0.2                                                                               |
+ |                                                                                                |
+ | Features:  DHCP Server  HTTP Server  OSS2-N-03025 Visualization LED Controller                 |
+ +------------------------------------------------------------------------------------------------+
+ |                 _/_/_/                                                                         |
+ |        _/_/    _/    _/    eRouter Dual Stack                                                  |
+ |     _/    _/  _/    _/                                                                         |
+ |    _/_/_/_/  _/_/_/                                                                            |
+ |   _/        _/ _/                                                                              |
+ |  _/        _/   _/                                                                             |
+ |   _/_/_/  _/     _/                                                                            |
+ |                                                                                                |
+ | Copyright (c) 1999 - 2020 Broadcom Corporation                                                 |
+ |                                                                                                |
+ | Revision:  5.5.11mp1                                                                           |
+ |                                                                                                |
+ | Features:  eRouter SNMP Customer Extension NATP                                                |
+ +------------------------------------------------------------------------------------------------+
+ | Broadcom eRouter Customer Extension                                                            |
+ |                                                                                                |
+ | Copyright (c) 1999 - 2020 Broadcom Corporation                                                 |
+ |                                                                                                |
+ | Revision:  3.0.2                                                                               |
+ |                                                                                                |
+ | Features:  ()                                                                                  |
+ +------------------------------------------------------------------------------------------------+
+ | System Name: Ubee DOCSIS 3.0 Wireless CableModem                                               |
+ | Build Date:  Dec  7 2020                                                                       |
+ | Build Time      : 11:31:30 (+0800)                                                             |
+ | Build By        : ubee                                                                         |
+ | Model Name: DDW36C                                                                             |
+ | Firmware version: 8.22.2121ca                                                                  |
+ +------------------------------------------------------------------------------------------------+
